@@ -26,3 +26,6 @@ aws/
 
 #dynamically generated table.txt
 m3/cloud_formation_template/table.txt
+
+#terraform imports
+network_config/imports.tf
