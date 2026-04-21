@@ -23,3 +23,6 @@
 
 #aws install folder
 aws/
+
+#dynamically generated table.txt
+m3/cloud_formation_template/table.txt
